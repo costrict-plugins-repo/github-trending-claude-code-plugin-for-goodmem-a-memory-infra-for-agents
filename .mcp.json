@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "goodmem": {
+      "command": "npx",
+      "args": ["@pairsystems/goodmem-mcp"]
+    },
+    "goodmem-gateway": {
+      "type": "http",
+      "url": "https://gateway.goodmem.ai/mcp"
+    }
+  }
+}
